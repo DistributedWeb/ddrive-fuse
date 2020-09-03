@@ -1,7 +1,7 @@
 {
-  "name": "hyperdrive-fuse",
-  "version": "1.2.12",
-  "description": "FUSE bindings for Hyperdrive",
+  "name": "ddrive-fuse",
+  "version": "1.0.0",
+  "description": "FUSE bindings for DDrive",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -11,29 +11,29 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrewosh/hyperdrive-fuse.git"
+    "url": "git+https://github.com/andrewosh/ddrive-fuse.git"
   },
   "keywords": [
-    "hyperdrive",
+    "ddrive",
     "fuse"
   ],
   "author": "Andrew Osheroff <andrewosh@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andrewosh/hyperdrive-fuse/issues"
+    "url": "https://github.com/andrewosh/ddrive-fuse/issues"
   },
-  "homepage": "https://github.com/andrewosh/hyperdrive-fuse#readme",
+  "homepage": "https://github.com/andrewosh/ddrive-fuse#readme",
   "devDependencies": {
-    "corestore": "^4.0.0",
+    "dwebstore": "git://github.com/DistributedWeb/dwebstore.git#03772a70db1a813fab16825366b97530a843c4c7",
     "fs-xattr": "^0.3.0",
-    "hyperdrive": "^10.4.4",
+    "ddrive": "git://github.com/DistributedWeb/ddrive.git#1eb5cb0699c9e80efcabf93e86457a57577bc97b",
     "random-access-memory": "^3.1.1",
     "rimraf": "^2.6.3",
     "standard": "^12.0.1",
     "tape": "^4.10.1"
   },
   "dependencies": {
-    "dat-encoding": "^5.0.1",
+    "dwebx-encoding": "git://github.com/DistributedWeb/dwebx-encoding.git#adbab1965b1152c3a7252ca01807e9744c713398",
     "filesystem-constants": "^1.0.0",
     "fuse-native": "^2.0.4"
   }
