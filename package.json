@@ -26,7 +26,7 @@
   "devDependencies": {
     "dwebstore": "git://github.com/DistributedWeb/dwebstore.git#03772a70db1a813fab16825366b97530a843c4c7",
     "fs-xattr": "^0.3.0",
-    "ddrive": "git://github.com/DistributedWeb/ddrive.git#1eb5cb0699c9e80efcabf93e86457a57577bc97b",
+    "ddrive": "git://github.com/DistributedWeb/ddrive.git#ebd1bc9ad47888f8a8b26f0f2787796c4eb4ae41",
     "random-access-memory": "^3.1.1",
     "rimraf": "^2.6.3",
     "standard": "^12.0.1",
