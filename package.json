@@ -11,18 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrewosh/ddrive-fuse.git"
+    "url": "git+https://github.com/distributedweb/ddrive-fuse.git"
   },
   "keywords": [
     "ddrive",
     "fuse"
   ],
-  "author": "Andrew Osheroff <andrewosh@gmail.com>",
+  "author": "Peeps Labs <peepslabs@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andrewosh/ddrive-fuse/issues"
+    "url": "https://github.com/distributedweb/ddrive-fuse/issues"
   },
-  "homepage": "https://github.com/andrewosh/ddrive-fuse#readme",
+  "homepage": "https://github.com/distributedweb/ddrive-fuse#readme",
   "devDependencies": {
     "dwebstore": "git://github.com/DistributedWeb/dwebstore.git#03772a70db1a813fab16825366b97530a843c4c7",
     "fs-xattr": "^0.3.0",
