@@ -1,2 +1,2 @@
 # ddrive-fuse
-A FUSE filesystem for DDrive
+A FUSE filesystem for dDrive
